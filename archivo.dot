@@ -1,0 +1,21 @@
+digraph G { 
+node[shape=box, color=red];
+nodo366712642[label="2"]
+nodo1829164700[label="0"]
+nodo1956725890[label="2"]
+nodo356573597[label="0"]
+nodo1735600054[label="0"]
+nodo21685669[label="2"]
+nodo2133927002[label="7"]
+nodo1836019240[label="9"]
+nodo325040804[label="3"]
+nodo366712642 -> nodo1829164700;
+nodo1829164700 -> nodo1956725890;
+nodo1956725890 -> nodo356573597;
+nodo356573597 -> nodo1735600054;
+nodo1735600054 -> nodo21685669;
+nodo21685669 -> nodo2133927002;
+nodo2133927002 -> nodo1836019240;
+nodo1836019240 -> nodo325040804;
+rankdir=LR;
+} 
